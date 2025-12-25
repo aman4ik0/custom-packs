@@ -1,0 +1,9 @@
+---
+library: true
+warnOnImplicitThis: false
+name: aman4ik0/poc
+version: 0.0.1
+extensionTargets:
+  - codeql/qo-all: 4.3.5
+dataExtensions:
+  - models/*.yml

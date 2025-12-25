@@ -1,0 +1,6 @@
+extensions:
+  - addsTo:
+      pack: codeql/go-all
+      extensible: sourceModel
+    data:
+      - ["github.com/inDriver/payment/internal/request/receipt", "CreateReceiptRequest", True, "GetRequestBody", "", "", "ReturnValue", "remote", "manual"]
