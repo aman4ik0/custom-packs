@@ -4,6 +4,6 @@ warnOnImplicitThis: false
 name: aman4ik0/poc
 version: 0.0.1
 extensionTargets:
-  - codeql/go-all: 4.3.5
+   codeql/go-all: 4.3.5
 dataExtensions:
   - models/*.yml
